@@ -1,5 +1,5 @@
-# Pizza-Sales-Analysis
-Objective: Analyzed pizza sales data to derive key performance indicators (KPIs) aligning with client requirements, employing data extraction, transformation, and visualization techniques.
+# Product-Sales-Analysis
+Objective: Analyzed product sales data to derive key performance indicators (KPIs) aligning with client requirements, employing data extraction, transformation, and visualization techniques.
 Project Highlights:
 Data Extraction & Database Management:
 •	Extracted 48,620 rows and 12 columns of pizza sales data from Excel sheets.
