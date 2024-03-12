@@ -27,5 +27,6 @@ Quantified Achievements:
 
 ![image](https://github.com/SaneelTare/Pizza-Sales-Analysis/assets/90349506/c95df876-21f2-41f6-9546-dcc9e5cb3844)
 ![image](https://github.com/SaneelTare/Pizza-Sales-Analysis/assets/90349506/ce143421-6f9f-41a4-85a5-b9dca91883d5)
+![image](https://github.com/SaneelTare/Product-Sales-Analysis/assets/90349506/8db65747-49fa-45e9-9587-937517caec22)
 
 Disclaimer: Please note, I've uploaded screenshots of the file on Git to provide a visual representation. Unfortunately, due to the file being stored exclusively on my local machine, I am unable to share the complete Power BI pbix file. The screenshots serve as a glimpse of the content, considering the efforts invested in its creation.
